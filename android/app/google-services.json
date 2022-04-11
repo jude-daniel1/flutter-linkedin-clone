@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972799189848",
+    "project_id": "flutterlinkedinclone",
+    "storage_bucket": "flutterlinkedinclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972799189848:android:97a3fe4f25cbca5f45fb2d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_linkedin_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972799189848-1c4jh7ffsbnvh4b9fb5s8nnei85u9gnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3fc8y8AFo-OW7BfBR3mZgW0Ld-_1P1Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972799189848-1c4jh7ffsbnvh4b9fb5s8nnei85u9gnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
